@@ -33,4 +33,4 @@ ls -lh $dest
 
 #Blast Off
 echo "The file "$archive_file" is out for delivery..3..2..1...blast off!"
-sshpass -p "YourPw" -P assphrase scp -i "/home/username/.ssh/id_rsa" -P 2244 $dest/$archive_file yournick@yourdomain:backups/$archive_file
+sshpass -p "YourPw" -P assphrase scp -i "/home/username/.ssh/id_rsa" -P 6969 $dest/$archive_file yournick@yourdomain:backups/$archive_file
